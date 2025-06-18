@@ -1,0 +1,1 @@
+alert ("disclaimer, website ini mungkin terlihat aneh di tampilan mobile. disarankan untuk membukanya di dekstop atau nyalakan mode dekstop")
